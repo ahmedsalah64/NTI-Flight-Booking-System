@@ -1,13 +1,14 @@
 # NTI-Flight-Booking-System
 
-C graduation project
 This project is focused on traveler’s record services in 
 Airline, so it is named “Flight Booking System”.
-Here, you can create a new client, update information of 
-an existing clients, view and manage classes, check the 
-details of an existing clients, remove existing client and 
+
+Here, I createed a new client, updated information of 
+an existing clients, viewed and managed classes, checked the 
+details of an existing clients, removed existing client and 
 view client list.
-The function we are looking for:
+
+The functions:
  MAIN_MENU () – this function displays the welcome 
 screen and targeted activates.
  NEW_CLIENT () – this function creates a 
@@ -26,6 +27,4 @@ updating a particular Client account.
 displaying the free seats in every class.
  CLASS_LIST () –this function can sort all Clients
 according to their seats in selected class.
--The delivered code should provide a solution by using RAM 
-Heap section.
--teamwork is forbidden
+
