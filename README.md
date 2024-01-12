@@ -9,6 +9,7 @@ details of an existing clients, removed existing client and
 view client list.
 
 The functions:
+
  MAIN_MENU () – this function displays the welcome 
 screen and targeted activates.
  NEW_CLIENT () – this function creates a 
