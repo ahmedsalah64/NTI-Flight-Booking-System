@@ -2,7 +2,7 @@
 
 This project is focused on traveler’s record services in Airline, so it is named “Flight Booking System”.
 
-Here, I createed a new client, updated information of an existing clients, viewed and managed classes, checked the details of an existing clients, removed existing client and view client list.
+Here, I created a new client, updated information of an existing clients, viewed and managed classes, checked the details of an existing clients, removed existing client and view client list.
 
 The functions:
 
